@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bfe4d98ccae1514fa5c508099d6953b, type: 3}
+  m_Name: FantasyAxe
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 93f349d013c082549adc906d20d5b093, type: 3}
+  itemName: FantasyAxe
+  modelPrefab: {fileID: 6055371243728023236, guid: 467b78421de1d6f4c8de3876d9fa8c21, type: 3}
+  isUnarmed: 0
+  weapon_Hand_idle: weapom hand empty
+  Oh_Light_Atk_1: Great Sword Slash Static
+  Oh_Light_Atk_2: Great Sword Slash Spin
+  Oh_Heavy_Atk_1: Frank_RPG_2Hand_Combo01_1
+  Oh_Heavy_Atk_2: Frank_RPG_2Hand_Combo01_4
+  baseStamina: 0
+  lighAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isMelee: 1
+  isSpellCaster: 0
+  isPyroCaster: 0
+  isFaithCaster: 0

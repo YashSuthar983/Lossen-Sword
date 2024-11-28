@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bfe4d98ccae1514fa5c508099d6953b, type: 3}
+  m_Name: SpellCaster
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: healing
+  modelPrefab: {fileID: 0}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamageMultiplier: 4
+  weapon_Hand_idle: 
+  Oh_Light_Atk_1: 
+  Oh_Light_Atk_2: 
+  Oh_Heavy_Atk_1: 
+  Oh_Heavy_Atk_2: 
+  baseStamina: 0
+  lighAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isMelee: 0
+  isSpellCaster: 0
+  isPyroCaster: 1
+  isFaithCaster: 0
