@@ -27,7 +27,7 @@ Lossen Sword is an exciting role-playing game (RPG) developed using Unity3D. Imm
 
 - **Unity3D**: Game engine used to develop the game.
 - **C#**: Programming language used for scripting.
-- **Blender** (optional): For creating 3D assets (if applicable).
+- **Mixamo**.
 
 ## Installation
 
