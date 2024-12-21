@@ -16,7 +16,7 @@ Lossen Sword is an exciting role-playing game (RPG) developed using Unity3D. Imm
    - Build and run the game for your desired platform (PC, Mac, etc.).
 
 2. **Controls**:
-   - Movement: Use `WASD` or arrow keys.
+   - Movement: Use `WASD`.
    - Attack: Press `Left Mouse Button`.
    - Interact: Press `E`.
    - Change swords : By Arow keys .
